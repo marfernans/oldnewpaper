@@ -1,0 +1,139 @@
+@media screen and (min-width: 1024px  ) {
+
+    .wrap {
+        display: flex;
+        height: 100%;
+        margin: 4rem 1.5rem;
+     }
+
+     .container__logo {  
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-top: -38rem;
+       
+     
+    }
+    
+    
+    .content__texts--logo h1 {
+        font-size: 1.25em;
+        font-family: 'Oswald', sans-serif;
+        color: var(--color-black-25);  
+        margin:  0 1.5em ;
+      
+    }
+    
+    .content__texts--logo h2 {
+        text-align: center;
+        font-size: 0.75em;
+        border-bottom: 1px solid var(--color-black-48);
+        color: var(--color-black-48);
+        margin:  0 1.5em ;
+    }
+
+    .container__banner--head-2 {
+        order: -1;
+        margin-top: -2rem;
+       
+
+
+    }
+
+
+    .container__banner--head {
+        order: -1;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        margin-top: -43rem;
+    }
+
+
+    .container__card--medium-1 {
+        display: flex;
+        justify-content: flex-start;
+        
+    }
+
+
+    .container__medium-2 {
+        display: flex;
+        
+
+    }
+
+    .container__card--large {
+        margin-top: -2.5rem;
+    }
+
+
+    .content__card--large {
+        width: 664px;
+        height: 737px;
+        margin-top: -27.8rem;
+    }
+
+    .image__large {
+        width: 636px;
+        height: 323px;
+        object-fit: cover;
+    }
+
+
+    .container__banner-top {
+        display: flex;
+        justify-content: flex-end;
+        order: -1;
+        margin-bottom: -9.5rem;
+    }
+
+
+    .container__card--medium-1 {
+        display: flex;
+        order: -1;
+        margin-bottom: -11rem;
+        
+
+    }
+
+    .container__medium-2 {
+        display: flex;
+        justify-content: flex-start;
+        order: -1;
+        margin-top: 12rem;
+
+    }
+
+    .container__small {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .container__small {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        order: -1;
+        margin-top:  12rem;
+        margin-right:  1em;
+        
+    }
+
+    .container__banner--bottom {
+        display: flex;
+        justify-content: flex-start;
+        margin-top: -15rem;
+    }
+
+
+    .container__suscribe {
+        display: flex;
+        justify-content: flex-end;
+    
+        margin-top: -11rem;
+        margin-right:  1em;
+    }
+
+
+}
